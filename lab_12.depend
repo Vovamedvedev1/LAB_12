@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1732479020 source:c:\users\Владимир\documents\С++ 2 курс\lab_12\main.cpp
+	<iostream>
+	"vect.h"
+
+1732477852 c:\users\Владимир\documents\С++ 2 курс\lab_12\vect.h
+	<iostream>
+	<typeinfo>
+	<string>
+
